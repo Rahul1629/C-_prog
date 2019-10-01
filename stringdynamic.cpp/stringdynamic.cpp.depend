@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1532513795 source:d:\new folder\stringdynamic.cpp\main.cpp
+	<iostream>
+	<string.h>
+
